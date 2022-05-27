@@ -1,0 +1,55 @@
+[
+	{"nome": "Juca",
+	"partido": "PMDB",
+	"votos": 110
+	},
+	{"nome": "Marcinho",
+	"partido": "PMDB",
+	"votos": 81
+	},
+	{"nome": "Imaculada",
+	"partido": "PMDB",
+	"votos": 76
+	},
+	{"nome": "Anicézio",
+	"partido": "PMDB",
+	"votos": 70
+	},
+	{"nome": "Carlito",
+	"partido": "PMDB",
+	"votos": 56
+	},
+	{"nome": "Pastor Aguimar",
+	"partido": "PMDB",
+	"votos": 43
+	},
+	{"nome": "Alexandre do Tarcísio",
+	"partido": "PMDB",
+	"votos": 38
+	},
+	{"nome": "Regina de Lucinho",
+	"partido": "PMDB",
+	"votos": 24
+	},
+	{"nome": "Simone do Pedro Mariano",
+	"partido": "PMDB",
+	"votos": 24
+	},
+    {"nome": "Fábio Araújo",
+    "partido": "PMDB",
+    "votos": 23
+    },
+	{"nome": "Dione Vermelho",
+	"partido": "PMDB",
+	"votos": 16
+	},
+	{"nome": "Ronilda",
+	"partido": "PMDB",
+	"votos": 12
+	},
+	{"nome": "Rosa do Julio",
+	"partido": "PMDB",
+	"votos": 9
+	}
+]
+
